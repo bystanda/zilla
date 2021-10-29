@@ -1,0 +1,26 @@
+
+#mesh {
+  background-image: url(/assets/mesh.png);
+  background-size: 100%;  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+}
+
+#name {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 75%;
+  height: auto;
+}
+
+#beegee {
+  position: relative;
+  margin-top: 100%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
